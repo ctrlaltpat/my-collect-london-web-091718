@@ -4,4 +4,5 @@ def my_collect(array)
   while counter < array.count do 
     rtn_arr << counter += 1
   end
+  rtn_arr
 end
